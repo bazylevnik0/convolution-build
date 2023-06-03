@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="convolution">
+	<schema id="org.gnome.gitlab.bazylevnik0.Convolution" path="/org/gnome/gitlab/bazylevnik0/Convolution">
+	</schema>
+</schemalist>
